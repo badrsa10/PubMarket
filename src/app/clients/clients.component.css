@@ -1,0 +1,8 @@
+
+
+@media (max-width: 768px) {
+  img.img-fluid.d-block.mx-auto {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+}

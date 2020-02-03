@@ -1,0 +1,20 @@
+.page-section {
+    padding: 8rem 0;
+  }
+
+#about.page-section.bg-primary {
+  background-color: white!important;
+  color: #6c757d!important;
+}
+
+a.btn.btn-primary {
+  background-color: #4f98ca;
+  border-color: transparent;
+}
+
+a.btn.btn-primary:hover {
+  background-color: transparent;
+  color: #4f98ca;
+  border-color: #4f98ca;
+}
+
